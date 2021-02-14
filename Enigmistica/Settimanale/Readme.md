@@ -1,1 +1,0 @@
-script suddivisi per rivista\settimana (formato gg-mm-yyyy) 
