@@ -11,3 +11,6 @@ non so se ci potrebbero essere problemi di compatibilita
 
 
 Script eseguiti senza grafica 
+
+
+I giochi vero o falso e tutti i giochi che richiedono conoscenze generali o giochi che non possono essere risolti senza alcun algoritmo non saranno supportati
