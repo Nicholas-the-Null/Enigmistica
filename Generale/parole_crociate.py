@@ -6,14 +6,14 @@ import os
 Direction = namedtuple('Direction', 'di dj name')
 
 DIRECTIONS = [
-    Direction(-1, -1, "up and to the left"),
-    Direction(-1,  0, "up"),
-    Direction(-1, +1, "up and to the right"),
-    Direction( 0, -1, "left"),
-    Direction( 0, +1, "right"),
-    Direction(+1, -1, "down and to the left"),
-    Direction(+1,  0, "down"),
-    Direction(+1, +1, "down and to the right"),
+    Direction(-1, -1, "diagonale su e verso sinistra"),
+    Direction(-1,  0, "su"),
+    Direction(-1, +1, "diagonale su e verso destra"),
+    Direction( 0, -1, "sinistra"),
+    Direction( 0, +1, "destra"),
+    Direction(+1, -1, "diagonale giu verso sinistra"),
+    Direction(+1,  0, "giu"),
+    Direction(+1, +1, "diagonale giu e verso destra"),
 ]
 
 def leggi_griglia(filename):
