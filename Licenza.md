@@ -1,0 +1,1 @@
+Puoi tranquillamente forkare questo progetto e rimodificarlo ma dovrà essere reso open per permettere a tutti di usufruire del miglior prodotto possibile
